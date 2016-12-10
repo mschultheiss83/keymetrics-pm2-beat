@@ -1,0 +1,7 @@
+################### Keymetrics-pm2-beat Configuration Example #########################
+
+############################# Keymetrics-pm2-beat ######################################
+
+keymetrics-pm2-beat:
+  # Defines how often an event is sent to the output
+  period: 1s

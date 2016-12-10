@@ -1,0 +1,9 @@
+- key: keymetrics-pm2-beat
+  title: keymetrics-pm2-beat
+  description:
+  fields:
+    - name: counter
+      type: long
+      required: true
+      description: >
+        PLEASE UPDATE DOCUMENTATION
